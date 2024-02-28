@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/bin/Debug/net7.0/CarInterface
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/bin/Debug/net7.0/CarInterface.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/bin/Debug/net7.0/CarInterface.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/bin/Debug/net7.0/CarInterface.dll
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/bin/Debug/net7.0/CarInterface.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/obj/Debug/net7.0/CarInterface.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/obj/Debug/net7.0/CarInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/obj/Debug/net7.0/CarInterface.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/obj/Debug/net7.0/CarInterface.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/obj/Debug/net7.0/CarInterface.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/obj/Debug/net7.0/CarInterface.dll
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/obj/Debug/net7.0/refint/CarInterface.dll
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/obj/Debug/net7.0/CarInterface.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/obj/Debug/net7.0/CarInterface.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/CarInterface/obj/Debug/net7.0/ref/CarInterface.dll
